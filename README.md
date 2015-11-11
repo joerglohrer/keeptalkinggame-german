@@ -1,3 +1,5 @@
 # keeptalkinggame-german
-Hier wird das Handbuch des Spiels übersetzt:
-http://www.bombmanual.com/
+
+Hier wird die Anleitung von 
+[KEEP TALKING and NOBODY EXPLODES](http://www.bombmanual.com/) übersetzt.
+![](http://www.bombmanual.com/img/header.png)
