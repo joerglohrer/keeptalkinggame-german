@@ -1,3 +1,4 @@
+# Fan-Translation
 # Bomb Defusal Manual German (unofficial V1 / Rev3)
 # Handbuch "Bomben entschärfen" (inoffizielle V1 / Rev 3)
 
@@ -5,21 +6,14 @@ Hier wird die Anleitung von
 [KEEP TALKING and NOBODY EXPLODES](http://www.bombmanual.com/) übersetzt.
 ![](http://www.bombmanual.com/img/header.png)
 
-* [BombManual] - Das Handbuch, das dieser Übersetzung zugrunde liegt
 
 
+## Dies ist eine deutsche und inoffizielle Fan-Übersetzung
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+Die Übersetzung orientiert sich an den Vorgaben der Entwickler zu Fanübersetzungen, nachzulesen im hier im Forum von Steam:
+http://steamcommunity.com/app/341800/discussions/0/?newdiscussion=1
 
-[BombManual]: <http://www.bombmanual.com/manual/1/html/index.html>
+Der Text orientiert sich an der ersten Übersetzung V1/Rev2 von Timo Faust hier im Forum von Steam:
+http://steamcommunity.com/app/341800/discussions/0/481115363859135849/
 
-
-Dies ist eine deutsche und inoffizielle Übersetzung von www.bombmanual.com
-
-Die Übersetzung orientiert sich an den Vorgaben der Entwickler, nachzulesen im hier im Forum von Steam
-
-Der Text orientiert sich an der ersten Übersetzung V1/Rev2 von Timo Faust hier im Forum von Steam
-
-Du kannst helfen, die Übersetzung aktuell zu halten und zu verbessern: https://github.com/empeiria/keeptalkinggame-german/
-
-aktualisiert: 11.11.2015
+## Du kannst helfen, die Übersetzung aktuell zu halten und zu verbessern: https://github.com/empeiria/keeptalkinggame-german/
