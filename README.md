@@ -1,4 +1,6 @@
 # Fan-Translation
+Handbuch unter:
+http://empeiria.github.io/keeptalkinggame-german
 # Bomb Defusal Manual German (unofficial V1 / Rev3)
 # Handbuch "Bomben entschärfen" (inoffizielle V1 / Rev 3)
 
